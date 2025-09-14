@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hello everyone!
 
+My name is Lee chan wook, Welcome to my Github profile!
 <!--
 **chanwook01/chanwook01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
